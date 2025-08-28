@@ -1,0 +1,8 @@
+{
+  "name": "codejr1",
+  "description": "A Scratch-like block-based coding editor powered by Google's Blockly.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
